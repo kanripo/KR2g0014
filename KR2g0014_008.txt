@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 漢丞相諸葛忠武侯傳
+#+DATE: 2015-09-11 23:44:27
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+
+講
